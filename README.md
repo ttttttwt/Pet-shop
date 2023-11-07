@@ -39,7 +39,7 @@ Nếu bạn là quản trị viên của trang web, bạn có thể truy cập t
 git clone https://github.com/your-repo-url.git
 ```
 
-2. Cấu hình cơ sở dữ liệu xampp theo file petshop.sql .
+2. Cấu hình cơ sở dữ liệu xampp theo file sql/petshop.sql .
 
 3. Truy cập trang web qua trình duyệt tại `http://localhost/petshop1/`.
 
