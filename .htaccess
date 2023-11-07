@@ -1,0 +1,2 @@
+# serve custom error pages 
+ErrorDocument 404 /petshop1/e404.php
